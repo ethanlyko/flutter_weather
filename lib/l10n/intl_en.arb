@@ -1,0 +1,26 @@
+{
+	"common_yes": "Yes",
+	"common_cancel": "Cancel",
+
+    "weather_err_invalid_api": "Invalid API key",
+    "weather_err_city_not_found": "City not found",
+    "weather_err_unknown": "Weather service: Unknown error",
+    "weather_temp_high": "H",
+    "weather_temp_low": "L",
+    "weather_title": "Weather Forecast",
+    "weather_city": "city",
+
+    "setting_title": "Setting",
+    "setting_about": "About",
+    "setting_lang": "Language",
+    "setting_lang_en": "English",
+    "setting_lang_hant": "繁中",
+
+	"about_title": "About",
+    "about_content": "This is my app",
+
+    "nav_home": "Home",
+    "nav_setting": "Setting",
+
+	"app_title": "Flutter Weather"
+}

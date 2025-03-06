@@ -1,0 +1,26 @@
+{
+	"common_yes": "確定",
+	"common_cancel": "取消",
+
+    "weather_err_invalid_api": "無效的 API Key",
+    "weather_err_city_not_found": "找不到城市",
+    "weather_err_unknown": "天氣服務：未知的錯誤",
+    "weather_temp_high": "高",
+    "weather_temp_low": "低",
+    "weather_title": "天氣預報",
+    "weather_city": "城市",
+
+    "setting_title": "設定",
+    "setting_about": "關於",
+    "setting_lang": "語言",
+    "setting_lang_en": "English",
+    "setting_lang_hant": "繁中",
+
+	"about_title": "關於",
+    "about_content": "這是我的 app",
+
+    "nav_home": "首頁",
+    "nav_setting": "設定",
+
+	"app_title": "Flutter 天氣"
+}
