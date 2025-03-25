@@ -1,4 +1,7 @@
 # flutter_weather
+
+### [English](README.md), [中文](README.zh-tw.md)
+
 This flutter weather project shows the weather information from OpenWeather service. It mainly demonstrates the use of openweather API, retrofit, and riverpod. Retrofit is a HTTP client library, and riverpod is a reactive caching and data-binding framework to take care of application's logic.
 
 ![app preview](media/app_preview.gif)
@@ -14,7 +17,7 @@ This flutter weather project shows the weather information from OpenWeather serv
   1. Get OpenWeather API key
      - [Sign up to OpenWeather service](https://home.openweathermap.org/users/sign_up) to use free plan
   2. Clone source
-     - git clone
+     - git clone https://github.com/ethanlyko/flutter_weather.git
   3. Replace OpenWeather API key in evn.example file and rename it to .env
   4. Run it
 
