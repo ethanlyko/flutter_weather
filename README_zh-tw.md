@@ -1,6 +1,6 @@
 # flutter_weather
 
-### [English](README.md), [中文](README.zh-tw.md)
+### [English](README.md), [中文](README_zh-tw.md)
 
 這個 Flutter 天氣專案展示了來自 OpenWeather 服務的即時天氣資訊。它主要示範了 OpenWeather API、Retrofit 和 Riverpod 的使用。Retrofit 是一個 HTTP 客戶端函式庫，而 Riverpod 是一個反應式快取和資料綁定框架，用於處理應用程式的邏輯。
 

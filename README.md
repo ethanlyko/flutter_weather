@@ -1,6 +1,6 @@
 # flutter_weather
 
-### [English](README.md), [中文](README.zh-tw.md)
+### [English](README.md), [中文](README_zh-tw.md)
 
 This flutter weather project shows the weather information from OpenWeather service. It mainly demonstrates the use of openweather API, retrofit, and riverpod. Retrofit is a HTTP client library, and riverpod is a reactive caching and data-binding framework to take care of application's logic.
 
